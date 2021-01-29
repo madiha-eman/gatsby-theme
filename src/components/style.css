@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #272c30;
+}
+
+.appbar{
+    background-color: white!important;
+    border-bottom: 1px solid rgb(226, 223, 223);
+    color:#272c30 !important;
+    box-shadow: none!important;
+    cursor: pointer;
+}
+
+.appbar .title1{
+    margin: 10px;
+    font-size: 16px;
+}
+.appbar .title1:hover{
+    color: #d8195e!important;
+}
+
+.sub-title{
+    background: #d8195e;
+    color: white;
+    display: inline-block;
+    padding: 0.2em 0.45em;
+
+}
+.title-1{
+    margin:  auto;
+    text-align: start;
+    justify-content: center!important;
+    align-content: center !important;
+    display: block !important;
+    margin-block-start: 2em !important;
+    /* margin-block-end: 1em !important; */
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important;
+    font-weight: 600px!important;
+    font-size: 44px!important;
+}
+.title-2{
+    color:#272c30 ;
+    text-align: start;
+    justify-content: center!important;
+    align-content: center !important;
+    display: block !important;
+     /* margin-block-start: 1em !important; */
+    margin-block-end: 1em !important; 
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important; 
+    font-weight: 600px!important;
+    font-size: 18px!important;
+    margin-top: 0!important;
+}
+.btn{
+    margin-bottom:9rem !important;
+    font-size: 20px!important;
+}
+
+.line-top:before {
+    border-left: 45px solid #d8195e;
+    content: "";
+    display: block;
+    height: 3px;
+    margin-bottom: 0.83333rem;
+    
+}
+.title-4{
+    display: block ;
+    margin-bottom: 0.83333rem;
+    font-size: 28px!important;
+    font-weight: 700!important;
+}
+.title-5{
+    color: #86939d;
+    display: block ;
+    margin-bottom: 3rem !important;
+    font-size: 16px!important;
+}
+.margin-image{
+    margin: 2!important;
+}
